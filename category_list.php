@@ -50,6 +50,7 @@ $statement->closeCursor();
     <!-- add code for the form here -->
     
     <br>
+    <p><a href="add_category_form.php">Add Category</a></p>
     <p><a href="index.php">List Products</a></p>
 
     </main>
